@@ -16,7 +16,8 @@
     "@babel/plugin-transform-runtime": "^7.21.4",
     "@babel/runtime": "^7.21.5",
     "@hapi/boom": "^10.0.1",
-    "@hapi/hapi": "^21.3.2"
+    "@hapi/hapi": "^21.3.2",
+    "mysql": "^2.18.1"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.21.5",

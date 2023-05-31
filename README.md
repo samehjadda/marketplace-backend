@@ -29,4 +29,4 @@ The project employs a range of technologies:<br>
 * MySQL: For robust data storage and management.
 
 ## Images
-Check my fron end repo
+Check my market place frontend repo for images
